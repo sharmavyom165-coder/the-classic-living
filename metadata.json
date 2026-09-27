@@ -1,0 +1,9 @@
+{
+  "name": "The Classic Living | Boys' Hostel Indore",
+  "description": "Official booking portal for The Classic Living Boys' Hostel in Shri Ram Nagar, Indore. Real-time room availability, online payments, mess menu, and verified resident reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
